@@ -1,0 +1,17 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+  url:  "https://github.com/Ampferl"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url:  "https://linkedin.com/in/ampferl"
+
+- type: hackthebox
+  icon: "fa-solid fa-cube"
+  url:  "https://app.hackthebox.com/users/1154213"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
