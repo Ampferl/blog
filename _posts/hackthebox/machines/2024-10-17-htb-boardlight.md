@@ -1,5 +1,5 @@
 ---
-title: BoardLight
+title: BoardLight - HackTheBox Machine WriteUp
 date: 2024-10-16 00:00:00 +8000
 categories:
   - Writeup
