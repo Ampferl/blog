@@ -2,7 +2,10 @@
 
 ### Setup
 ```shell
-sudo /usr/bin/bundle install
+sudo apt-get install ruby-full build-essential zlib1g-dev
+gem install jekyll bundler
+
+sudo bundle install
 
 npm install
 
