@@ -8,17 +8,16 @@ Welcome, my name is Jonas. I am a penetration tester and trained software develo
 This blog will be my way of sharing my knowledge and experiences about my experiences, security research and writeups.
 I started programming about eleven years ago with PHP. Over the years, I tried out a lot of different languages like Rust, Go, Kotlin and Dart to name a few. But today I mainly work with Python, C/C++, Go and JavaScript.
 
-I did my software engineering apprenticeship where I worked in a team of six developers building a cryptography as a service platform. This project gave me a lot of experience in software development and I learned a lot about cryptography and security. I started to work on my skills in this area and two years ago I decided to study cybersecurity because I am very fascinated by this topic and our local university finally offers a degree in this field. 
+I did my software engineering apprenticeship where I worked in a team of six developers building a cryptography as a service platform. This project gave me a lot of experience in software development and I learned a lot about cryptography and security. I started to work on my skills in this area and two years ago I decided to study cybersecurity because I am very fascinated by this topic and our local university finally offers a degree in this field.
 
 In my first year, I was mainly interested in malware analysis and reverse engineering. In the second year, my interest has shifted more towards penetration testing and exploit development. I started training for the [OSCP](/posts/pentesting-cheatsheet/) in late 2024 and in March 2025 I successfully passed the exam and received my certification.
 
-In early 2026, I successfully completed my bachelors degree in cybersecurity, started working full-time as a penetration tester at [Hacking Cult] and by mid-2026, I received my first five CVEs for [publicly disclosing vulnerabilities in OPNsense](/posts/opnsense).
-
+In early 2026, I successfully completed my bachelors degree in cybersecurity, started working full-time as a penetration tester at [Hacking Cult](https://hackingcult.de/) and by mid-2026, I received my first five CVEs for [publicly disclosing vulnerabilities in OPNsense](/posts/opnsense) (This research even caught the attention of [Heise online](https://www.heise.de/en/news/OPNsense-update-fixes-critical-root-vulnerability-and-other-security-risks-11355259.html), Germanys leading IT news outlet.).
 
 <center><a href="https://credentials.offsec.com/9a116df9-aa0e-4e71-98f7-5e42622d277c#acc.Dx7ynV2i"><img src="/assets/img/about/oscp_badge.png"></a></center>
 
+## Contact Information
 
-## Contact Information:
 - [GitHub](https://github.com/Ampferl)
 
 - [Linkedin](https://linkedin.com/in/ampferl)
